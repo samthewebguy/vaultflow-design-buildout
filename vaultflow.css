@@ -672,6 +672,12 @@ i{
         font-weight: 400;
     }
 
+    .action-btn{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
     /* logo container */
     
     .logo {
