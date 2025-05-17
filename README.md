@@ -18,7 +18,7 @@ The goal was to improve my ability to translate modern Figma designs into functi
 - index.html - # Main HTML file
 - style.css - # All custom styling
 - script.js - # JavaScript for mobile menu functionality
-- assets/ - # Folder for images, icons
+- Images/ - # Folder for images, icons
 
 ## Technologies Used
 
